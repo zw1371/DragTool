@@ -1,2 +1,2 @@
 ## 介绍
-  [页面模块自定义布局 可拖拽模块 可将布局效果保存并刷新后重现](https://zw1371.github.io/DragTool/DragTool.html)
+  [页面模块自定义布局 可拖拽模块(Customized layout of page modules, drag-and-drop modules) ](https://sleepy-babbage-2cce74.netlify.app/dragtool-master/dragtool)
